@@ -1,0 +1,1 @@
+Since Asana is going to deprecate API Keys I'm transferring my efforts to an npm package I created [here](https://github.com/janzenz/asana-project-migrate).
